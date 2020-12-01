@@ -10622,6 +10622,11 @@ div#slider figure {
   cursor: pointer;
   border: none;
 }
+
+.button:hover {
+  transform: scale(1.05);
+  box-shadow: 1px 1px 28px lightgray;
+}
 .git-link {
   font-size: 2rem;
   color: #bd5d38;
