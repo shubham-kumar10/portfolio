@@ -10635,3 +10635,6 @@ body {
   margin-top: 3rem;
   border-bottom: 1px dashed darkgray;
 }
+.project-description{
+  padding-left: 1rem;
+}
